@@ -24,6 +24,10 @@ body {
     background-color: var(--cst)
 }
 
+.hidden_link {
+    display:none;
+}
+
 /* vid background thingy */
 
 #vidBkg {
